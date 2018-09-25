@@ -1,0 +1,12 @@
+.header {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #F8F8F8;
+    width : 100%;
+    display : flex;
+    justify-content: space-between;
+}
+
+.mobeye {
+    height : 55px;
+}

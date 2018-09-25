@@ -1,0 +1,23 @@
+#map {
+    height: 60vh;
+    margin-bottom : 20px;
+  }
+
+  .link {
+    background-color : #32a8ba;
+    color : white;
+    font-size : 15px;
+    padding : 10px;
+    border-radius : 5px;
+    cursor : pointer;
+  }
+
+  .link:hover {
+    background-color : #138496;
+    color : white;
+    font-size : 15px;
+    padding : 10px;
+    border-radius : 5px;
+    text-decoration: none;
+    cursor : pointer;
+  }
